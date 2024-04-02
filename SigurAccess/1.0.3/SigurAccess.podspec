@@ -79,8 +79,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.source       = { :http => 'https://cocoapods.sigur.com/SigurAccess-1.0.3/SigurAccess.zip', 
-			:sha256 => 'e411b0868f18e6ea7ff25ab9877e2f8987337b632039bf2dcebed6999cc50d07',
-			:sha1 => '0c559fc04ef89fa96c6729a9ea0eb01a8fc0cda2' }
+			:sha256 => '85d438d76035005240bb1499de07ed40b93872cb5e06e0a513f43d48212e50fb',
+			:sha1 => 'b35ac6622a3f7d731f007de9adfaced4c48aef6e' }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
